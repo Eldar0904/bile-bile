@@ -15,3 +15,6 @@ No build step or dependencies. Edit index.html, style.css and app.js directly. G
 Dancer artwork uses lightweight, loose, fully covered dancewear with Kazakh-inspired details. Generated with built-in image generation. Social campaign image is in socials/.
 
 The page presents a concept, not a playable game. No song catalogue, scoring or sign-up backend is implemented.
+
+## Visual direction
+Original vibrant ivory/orange/cobalt/magenta/lime poster design. Street-dance fashion is retained: bomber jackets, fitted inner tees, cargo trousers and sneakers. Inner tees cover the abdomen and overlap the waistband. Kazakh influence is limited to tiny cuff details; no traditional borders or costume styling.
