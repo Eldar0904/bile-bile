@@ -18,3 +18,5 @@ The page presents a concept, not a playable game. No song catalogue, scoring or 
 
 ## Visual direction
 Original vibrant ivory/orange/cobalt/magenta/lime poster design. Street-dance fashion is retained: bomber jackets, fitted inner tees, cargo trousers and sneakers. Inner tees cover the abdomen and overlap the waistband. Kazakh influence is limited to tiny cuff details; no traditional borders or costume styling.
+
+Final revision: plain loose box-cut inner T-shirts with flat chest panels, no fitted bust contouring or emphasis; original bomber jackets and cargo trousers retained. Final assets: dance-hero-final.png and socials/bile-bile-final.png. Generated through built-in image editing. Prompt: preserve original street-dance composition and palette; loosen both girls' inner tops, use flat cloth chest surfaces, cover midriffs; retain all campaign text.
