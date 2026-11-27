@@ -22,3 +22,7 @@ The visual direction uses the original vivid orange/cobalt/magenta/lime palette 
 Artwork created and edited using built-in image generation. Final prompts preserve the dance composition and streetwear, use loose flat-front inner tops, cover midriffs, and keep the exact Kazakh campaign text. Story layout adapts the approved square poster to 9:16 with text safe areas.
 
 This page presents a concept, not a playable game. No song catalogue, scoring, sign-up backend or social posting is implemented.
+
+## La La choreography prototype
+
+Open `rehearsal.html` for an original four-phrase, 64-count beginner routine. `choreography.html` is a printable count sheet and filming brief. Default 130 BPM is a rehearsal setting, not an audio-verified song/chorus alignment. The tool includes an eight-count preparation, two rounds, pause/resume/reset, tempo controls, optional metronome, and browser-local audio with a manual start offset. No song audio is distributed, no dancer video is simulated, and no score or tracking is claimed.
